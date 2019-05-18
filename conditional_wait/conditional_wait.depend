@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557624104 source:c:\users\jiach\desktop\rongchen\cplusplus\conditional_wait\main.cpp
+	<iostream>
+	<mutex>
+	<thread>
+	<condition_variable>
+

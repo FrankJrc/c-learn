@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558138121 source:c:\users\jiach\desktop\rongchen\cplusplus\algo\src\binary_search_demo.cpp
+	"binary_search_demo.h"
+
+1558051925 c:\users\jiach\desktop\rongchen\cplusplus\algo\include\binary_search_demo.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1558138328 source:c:\users\jiach\desktop\rongchen\cplusplus\algo\main.cpp
+	<iostream>
+	<memory>
+	"binary_search_demo.h"
+

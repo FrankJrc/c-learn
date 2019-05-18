@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1557593177 source:c:\users\jiach\desktop\rongchen\cplusplus\template\main.cpp
+	<iostream>
+	<atomic>
+	<thread>
+	<vector>
+	<mutex>
+	"strategy.h"
+	"Poly.h"
+
+1557352948 c:\users\jiach\desktop\rongchen\cplusplus\template\include\strategy.h
+	<iostream>
+	<type_traits>
+
+1556748886 source:c:\users\jiach\desktop\rongchen\cplusplus\template\src\strategy.cpp
+	"strategy.h"
+
+1557352648 source:c:\users\jiach\desktop\rongchen\cplusplus\template\src\poly.cpp
+	"Poly.h"
+
+1557352635 c:\users\jiach\desktop\rongchen\cplusplus\template\include\poly.h
+	<iostream>
+
